@@ -1,6 +1,6 @@
 {
   "name": "mf-host",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
